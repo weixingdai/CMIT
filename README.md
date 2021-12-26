@@ -4,6 +4,6 @@ CMIT
 ##  Train a model
 ```python
 python train.py --ckp demo --dataroot datasets/demo
-```python
+```
 
 ### Options
