@@ -1,5 +1,5 @@
 # Complex microscopic image transformation (CMIT) via weakly supervised deep generative modeling
-CMIT
+This is a pytorch implementation of CMIT.
 
 ##  Train a model
 ```python
