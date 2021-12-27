@@ -8,7 +8,9 @@ python train.py --ckp demo --dataroot datasets/demo
 
 ### Options
 --ckp	Model name to be saved in ./checkpoints
+
 --dataroot	The folder of input datasets
+
 --tol	Tolerance size, i.e. the size of exculsive regions, default: 256
 --overlap_size	Overlapping size among the exculsive regions, default: 64
 --batch_size	Batch size, default: 2
