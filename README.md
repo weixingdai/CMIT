@@ -6,7 +6,7 @@ This is a pytorch implementation of CMIT.
 python train.py --ckp demo --dataroot datasets/demo
 ```
 
-### Options
+### Options:
 ```--ckp```	Model name to be saved in ./checkpoints
 
 ```--dataroot```	The folder of dataset for training
