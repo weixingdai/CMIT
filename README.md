@@ -9,7 +9,7 @@ python train.py --ckp demo --dataroot datasets/demo
 ### Options
 ```--ckp```	Model name to be saved in ./checkpoints
 
-```--dataroot```	The folder of input datasets
+```--dataroot```	The folder of dataset for training
 
 ```--tol```	Tolerance size, i.e. the size of exculsive regions, default: 256
 
