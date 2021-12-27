@@ -7,3 +7,8 @@ python train.py --ckp demo --dataroot datasets/demo
 ```
 
 ### Options
+
+## Test a model
+'''python
+python test.py --i examples/breast001 --c breast001 --o results/breast001_cmit
+'''
