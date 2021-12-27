@@ -39,3 +39,13 @@ python train.py --ckp demo --dataroot datasets/demo
 ```python
 python test.py --i examples/breast001 --c breast001 --o results/breast001_cmit
 ```
+### Options:
+```--input```	Input folder name
+
+```--ckp```	Model name
+
+```--output```	Output folder name
+
+```--input_dim```	Number of input channels
+
+```--sobel```	Whether use sobel feature, default: True
