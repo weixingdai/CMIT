@@ -7,7 +7,7 @@ python train.py --ckp demo --dataroot datasets/demo
 ```
 
 ### Options
---ckp	Model name to be saved in ./checkpoints
+```--ckp```	Model name to be saved in ./checkpoints
 
 --dataroot	The folder of input datasets
 
