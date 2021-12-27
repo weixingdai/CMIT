@@ -37,7 +37,7 @@ python train.py --ckp demo --dataroot datasets/demo
 
 ## Test a model
 ```python
-python test.py --i examples/breast001 --c breast001 --o results/breast001_cmit
+python test.py --input examples/breast001 --ckp breast001 --output results/breast001_cmit
 ```
 ### Options:
 ```--input```	Input folder name
