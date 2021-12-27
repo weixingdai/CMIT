@@ -46,6 +46,6 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 
 ```--output```	Output folder name
 
-```--input_dim```	Number of input channels
+```--input_dim```	Number of input channels, default: 3
 
 ```--sobel```	Whether use sobel feature, default: True
