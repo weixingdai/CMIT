@@ -52,4 +52,5 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 
 ## Demo
 Use the pre-trained model in ./checkpoints/breast001 and test the images in ./examples
+
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_1.png)
