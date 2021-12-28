@@ -49,3 +49,7 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 ```--input_dim```	Number of input channels, default: 3
 
 ```--sobel```	Whether use sobel feature, default: True
+
+## Demo
+Use the pre-trained model in ./checkpoints/breast001 and test the images in ./examples
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
