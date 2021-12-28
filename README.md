@@ -59,7 +59,7 @@ Use the model in ./checkpoints/breast001 and test the images in ./examples, the 
 
 ![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_2.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_2.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/4ca92a86b5a14e545c3603541fc8f6187f9f2dd6/examples/breast001%20ground%20truth/gt_2.png)
+![alt text](https://github.com/weixingdai/CMIT/blob/b7159ba29fe4e928a5083ebc062a7b2b51bb0151/examples/breast001%20ground%20truth/gt_2.png)
 
 ![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_3.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_3.png)
