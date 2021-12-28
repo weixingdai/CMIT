@@ -51,8 +51,7 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 ```--sobel```	Whether use sobel feature, default: True
 
 ## Demo
-Use the pre-trained model in ./checkpoints/breast001 and test the images in ./examples
-
+Use the model in ./checkpoints/breast001 and test the images in ./examples, the results are as follows:
      
 ![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_1.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_1.png)
