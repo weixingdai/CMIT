@@ -37,7 +37,7 @@ python train.py --ckp demo --dataroot datasets/demo
 
 ## Test a model
 ```python
-python test.py --input examples/breast001 --ckp breast001 --output results/breast001_cmit --sobel
+python test.py --input examples/breast001 --ckp breast001 --output results/breast001 --sobel
 ```
 ### Options:
 ```--input```	Input folder name
@@ -59,16 +59,9 @@ python test.py --input examples/planaria --ckp planaria --output results/planari
 ![alt text](https://github.com/weixingdai/CMIT/blob/94d5b8cc787bdf0c04446403c4d1c1f6f71c36cd/results/planaria/fake_cmit_input.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/f58098440e8f84e6970808851e2c76fc53b07e06/examples/planaria%20ground%20truth/gt.png)
 
-Use the model in ./checkpoints/breast001 and test the images in ./examples, the results are as follows:
-  
-![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_1.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_1.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/a8778cb8bade10d05895f90ace5db48bdca5e058/examples/breast001%20ground%20truth/gt_1.png)
-
-![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_2.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_2.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/b7159ba29fe4e928a5083ebc062a7b2b51bb0151/examples/breast001%20ground%20truth/gt_2.png)
-
+```python
+python test.py --input examples/breast001 --ckp breast001 --output results/breast001 --sobel
+```
 ![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_3.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_3.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/c058d4fae0702f6d01a76f2f4334904577f2f712/examples/breast001%20ground%20truth/gt_3.png)
