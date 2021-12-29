@@ -52,8 +52,8 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 
 ## Demo
 Use the model in ./checkpoints/breast001 and test the images in ./examples, the results are as follows:
-     a         b         c
-     
+
+     a         b         c   
 ![alt text](https://github.com/weixingdai/CMIT/blob/c838e57612973f20286dc6be1900e3b98afb308d/examples/breast001/input_1.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/7216a9843db737d8a3a243815ebe1f93c4214fb3/results/breast001_cmit/fake_cmit_input_1.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/a8778cb8bade10d05895f90ace5db48bdca5e058/examples/breast001%20ground%20truth/gt_1.png)
