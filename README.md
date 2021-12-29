@@ -1,7 +1,6 @@
 # Complex microscopic image transformation (CMIT) via weakly supervised deep generative modeling
 This is a pytorch implementation of CMIT.
 
-## Quick Start Examples
 ##  Train a model
 ```python
 python train.py --ckp demo --dataroot datasets/demo
@@ -50,6 +49,8 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 ```--input_dim```	Number of input channels, default: 3
 
 ```--sobel```	Whether use sobel feature
+
+## Quick Start Examples
 ### Low-SNR restoration of planaria
 ```python
 python test.py --input examples/planaria --ckp planaria --output results/planaria --input_dim 1
