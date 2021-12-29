@@ -57,7 +57,7 @@ python test.py --input examples/planaria --ckp planaria --output results/planari
 ```
 ![alt text](https://github.com/weixingdai/CMIT/blob/ab8537d8ab55bf15d2b12e0df6b199901a4c915b/examples/planaria/input.png)
 ![alt text](https://github.com/weixingdai/CMIT/blob/94d5b8cc787bdf0c04446403c4d1c1f6f71c36cd/results/planaria/fake_cmit_input.png)
-![alt text](https://github.com/weixingdai/CMIT/blob/a8778cb8bade10d05895f90ace5db48bdca5e058/examples/breast001%20ground%20truth/gt_1.png)
+![alt text](https://github.com/weixingdai/CMIT/blob/f58098440e8f84e6970808851e2c76fc53b07e06/examples/planaria%20ground%20truth/gt.png)
 
 Use the model in ./checkpoints/breast001 and test the images in ./examples, the results are as follows:
   
