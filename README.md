@@ -50,7 +50,7 @@ python test.py --input examples/breast001 --ckp breast001 --output results/breas
 
 ```--sobel```	Whether use sobel feature
 
-## Quick Start Examples
+## Examples
 ### Low-SNR restoration of planaria
 ```python
 python test.py --input examples/planaria --ckp planaria --output results/planaria --input_dim 1
